@@ -1,0 +1,7 @@
+node_modules/
+.env
+.DS_Store
+dist/
+build/
+
+git push https://Hrucha100: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@github.com/Hrucha100/store-rating-platform.git main
